@@ -1,0 +1,6 @@
+# course handouts and submitted PDFs, not ours to redistribute
+*.pdf
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
